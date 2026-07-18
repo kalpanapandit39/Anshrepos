@@ -123,6 +123,8 @@ This section is the HEART of this ROADMAP. Here, you will learn how to build COM
 
   - [My First Azure Data Engineering Project - End to End](https://youtu.be/0GTZ-12hYtU?si=GB4K187s9l5DTIi-)
 
+  - [WALMART Data Engineering End-To-End Project (Airflow + DBT + Databricks)](https://youtu.be/ZEE-jNAthB0)
+
 
 ## Module 10 : Certifications and UDEMY Courses to Boost Your Resume
 This section contains the MOST RECOMMENDED CERTIFICATIONS and UDEMY COURSES for DATA ENGINEERS that will BOOST your RESUME and help you LAND your DREAM JOB because TRUST ME, RECRUITERS and HIRING MANAGERS LOVE to see CERTIFICATIONS on RESUMES.
